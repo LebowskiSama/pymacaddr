@@ -1,2 +1,2 @@
 # pymacaddr
-A simple python program to find all mac addresses in a given local network using socket and getmac
+A simple python program to find all hostnames and mac addresses connected to a given local network using socket and getmac.
