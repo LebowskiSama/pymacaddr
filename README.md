@@ -1,4 +1,4 @@
-# pymacaddr
+# pyprobe
 A simple pet python project to find all hostnames and mac addresses connected to a given local network using socket and getmac.</br>
 
 # README
